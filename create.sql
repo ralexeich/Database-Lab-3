@@ -1,6 +1,6 @@
 create table track(  
-      track_name varchar(50) not null PRIMARY KEY, 
-      artist varchar(50) not null, 
+      track_name varchar(1000) not null PRIMARY KEY, 
+      artist varchar(1000) not null, 
       track_duration integer not null 
 );
 
