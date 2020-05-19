@@ -1,7 +1,7 @@
 create table track(  
-      track_name varchar(1000) not null PRIMARY KEY, 
-      artist varchar(1000) not null, 
-      track_duration integer not null 
+      track_name varchar(1000)  PRIMARY KEY, 
+      artist varchar(1000), 
+      track_duration integer  
 );
 
 insert into track(track_name,track_duration,artist)
@@ -23,8 +23,8 @@ insert into track(track_name,track_duration,artist)
 values ('Ivy', '198', 'Frank Ocean');
 
 create table region(
-      region_name varchar(1000) not null PRIMARY KEY,
-      full_spreading varchar(50) not null
+      region_name varchar(1000)  PRIMARY KEY,
+      full_spreading varchar(50) 
 );
 
 insert into region(region_name, full_spreading)
@@ -49,10 +49,10 @@ insert into region(region_name, full_spreading)
 values ('Soundcloud', 'Yes');
      
 create table charts(
-      charts_place integer not null PRIMARY KEY,
-      region_name varchar(1000) not null references region(region_name),
-      track_name varchar(1000) not null references track(track_name),
-      popularity integer not null
+      charts_place integer  PRIMARY KEY,
+      region_name varchar(1000)  references region(region_name),
+      track_name varchar(1000)  references track(track_name),
+      popularity integer 
 );
 
 insert into charts(charts_place, region_name, track_name, popularity)
