@@ -1,0 +1,22 @@
+position,artist_name,track_name,track_id,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,region
+0,Future,Life Is Good (feat. Drake),5yY9lUy8nbvjM1Uyo1Uqoc,95,0.676,0.609,2,-5.831,0,0.481,0.0706,0.0,0.152,0.508,142.037,237735,apple_music
+1,Lil Uzi Vert,That Way,5raTDhlbxFDnpn89bxArdH,86,0.719,0.611,7,-5.01,0,0.0403,0.0582,0.0,0.155,0.489,129.962,212354,spotify
+2,Lil Uzi Vert,Baby Pluto,7hav1MHURQf5SAoPk0egqh,85,0.772,0.634,10,-6.101,0,0.212,0.135,0.0,0.432,0.671,160.052,210261,tidal
+3,Lil Mosey,Blueberry Faygo,6wJYhPfqk3KGhHRG76WzOh,90,0.774,0.554,0,-7.909,1,0.0383,0.207,0.0,0.132,0.349,99.034,162547,playmusic
+4,Eminem,Godzilla (feat. Juice WRLD),7FIWs0pqAYbP91WWM0vlTQ,94,0.808,0.745,10,-5.26,0,0.342,0.145,0.0,0.292,0.829,165.995,210800,soundcloud
+5,Lil Uzi Vert,Lo Mein,6CUP2khYzdphXebxVTfPE3,83,0.855,0.676,1,-5.736,1,0.325,0.0888,0.0,0.144,0.509,133.081,195299,apple_music
+6,Lil Uzi Vert,P2,3kW4z2pIj5VY5fLjBrMRL5,84,0.775,0.72,11,-5.353,0,0.193,0.0236,0.0,0.114,0.49,155.086,234627,apple_music
+7,Lil Uzi Vert,Silly Watch,5egD7A5x9AHdVO2fMo3Wbo,83,0.903,0.535,8,-6.238,1,0.286,0.0296,0.0,0.0851,0.157,130.117,195692,apple_music
+8,Lil Uzi Vert,Homecoming,6vxU64pcIuQ38O015Zy4qj,81,0.929,0.563,9,-7.428,1,0.49,0.000592,0.0,0.244,0.354,129.957,213885,apple_music
+9,Jack Harlow,WHATS POPPIN,3Q6F8RByyhRTJpRtZLY3cg,88,0.923,0.604,11,-6.671,0,0.245,0.017,0.0,0.272,0.826,145.062,139741,apple_music
+10,Lil Uzi Vert,Prices,4YcWzLSnGqLjSCycuSMHnn,81,0.786,0.684,7,-5.397,1,0.205,0.172,0.0,0.706,0.563,126.002,233333,apple_music
+11,Bad Bunny,La Dificil,6NfrH0ANGmgBXyxgV2PeXt,92,0.685,0.848,8,-4.561,0,0.0858,0.0861,7.14e-06,0.0783,0.761,179.87,163084,apple_music
+12,Lil Uzi Vert,I'm Sorry,1xcOYJxDa5pObgxY1r0I9c,81,0.858,0.547,1,-5.822,1,0.29,0.213,0.0,0.104,0.304,128.02,211883,apple_music
+13,Lil Uzi Vert,POP,1jDbQz6tr52WgScCTXMnaN,80,0.742,0.6,1,-6.668,0,0.418,0.00948,0.0,0.785,0.272,139.888,227474,spotify
+14,Lil Uzi Vert,Celebration Station,25B5fGr9K0VdZJiRFsnMO4,80,0.748,0.771,6,-4.156,1,0.15,0.101,0.0,0.135,0.792,142.087,195058,spotify
+15,Bad Bunny,Si Veo a Tu Mama,41wtwzCZkXwpnakmwJ239F,91,0.9,0.603,2,-5.313,1,0.0646,0.402,4.81e-06,0.134,0.824,129.928,170972,spotify
+16,Lil Uzi Vert,Bigger Than Life,2oHDJHNondITqbl8xZ9vPn,80,0.776,0.752,8,-4.711,0,0.194,0.325,0.0,0.33,0.716,140.008,192705,spotify
+17,Lil Uzi Vert,Venetia,3BYIzNZ3t9lRQCACXSMLrT,80,0.775,0.757,9,-4.139,1,0.202,0.162,0.0,0.148,0.557,142.933,188800,spotify
+18,Lil Uzi Vert,You Better Move,6YAxCn4juTWn5hWl2hzHGw,80,0.842,0.556,8,-6.793,1,0.442,0.159,0.0,0.204,0.306,118.836,196639,spotify
+19,The Weeknd,After Hours,4ejyZ4uJEXUURcgKp1kP8v,91,0.663,0.567,5,-5.941,0,0.0309,0.0938,0.00978,0.124,0.139,108.959,361947,spotify
+20,Lil Uzi Vert,Chrome Heart Tags,46mT9NR7N9Zf5MolcrBgE3,79,0.703,0.768,0,-4.055,1,0.0655,0.541,0.0,0.105,0.572,70.055,212821,spotify
