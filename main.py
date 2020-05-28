@@ -67,10 +67,10 @@ track_duration_artist = py.plot(fig, filename='duration-artist')
 
 cursor.execute( """
    select distinct artist ,
-   round((COUNT(artist))/ (SELECT COUNT(*) FROM charts_view)*100, 2)  persent                                                                                                             
-FROM charts_view
-GROUP BY artist
-ORDER BY persent DESC, artist
+   round((count(artist))/ (select count(*) from charts_view)*100, 2)  persent                                                                                                             
+from charts_view
+group by artist
+order by persent desk, artist
 """)
 artist = []
 percent = []
